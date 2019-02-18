@@ -1,0 +1,24 @@
+{
+  "name": "@hospital-sdk/scheduler",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Nikola Horvat <nikola.horvat@leaseplan.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/scheduler.js",
+  "types": "lib/scheduler.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "tsc": "tsc"
+  }
+}
